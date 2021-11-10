@@ -1,4 +1,4 @@
-[![Mostafa's GitHub Banner](./mostafaBanner.png)](https://mostafaportfolio.netlify.app)
+[![Mostafa's GitHub Banner](./mostafaBanner2.png)](https://mostafaportfolio.netlify.app)
 
 <h3 align="left">I am a JavaScript NINJA 🥷🏻 </h3>
 

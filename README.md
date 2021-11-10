@@ -1,4 +1,4 @@
-<img src="I am mostafa.png" alt="I am Mostafa" />
+<img src="I am Mostafa.png" alt="I am Mostafa" />
 
 <h3 align="left">I am a JavaScript NINJA 🥷🏻 </h3>
 

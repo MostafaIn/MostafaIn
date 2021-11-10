@@ -1,4 +1,4 @@
-[![Mostafa's GitHub Banner](I ma Mostafa.png)](https://mostafaportfolio.netlify.app)
+[![Mostafa's GitHub Banner](I am Mostafa.png)](https://mostafaportfolio.netlify.app)
 
 <h3 align="left">I am a JavaScript NINJA 🥷🏻 </h3>
 

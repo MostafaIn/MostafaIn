@@ -1,6 +1,4 @@
-<p align="center">
- Hi, I'm Mostafa 👋  a 🚀 Full-stack developer 🚀 
-</p>
+<img src="I am mostafa.png" alt="I am Mostafa" />
 
 <h3 align="left">I am a JavaScript NINJA 🥷🏻 </h3>
 
